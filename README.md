@@ -10,7 +10,7 @@ Other requirements:
 
  - Any selenium driver (chrome recommended)
 
-Funkcje (w rozwoju):
+Functions (in development):
 -Login  
   
     login('thickcat.com')
