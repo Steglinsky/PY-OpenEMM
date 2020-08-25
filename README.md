@@ -52,6 +52,7 @@
 `name = 'name'`
 
 **Example:**
+Adds a new e-mail list. The name must be indicated in the 'name' argument. Otherwise, the list will take the default value.
 `new_list(name = 'Cat food 01.01.2020')`
 
 
@@ -75,4 +76,17 @@ This command will load the e-mail list file located in the specified location to
 
 =========================================================
 
+### Deleting data
+`remove_data()`
+
+
+**Example:**
+Simply remove the contents of all mailing lists
+
+`remove_data(`
+
+
+
+
+=========================================================
 
