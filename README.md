@@ -1,23 +1,47 @@
-# PY-OpenEMM
-A set of functions to automate your OpenEMM 2015 R3 application.
+#### A set of functions to automate your OpenEMM 2015 R3 application.
 
-Required libraries:
- - os
- - time
- - selenium
+##### Required libraries:
 
-Other requirements:
+- os
+- time
+- selenium
 
- - Any selenium driver (chrome recommended)
+##### Other requirements:
 
-Functions (in development):
--Login  
-  
-    login('thickcat.com')
-or
-  
-    login('192.11.22.33')
-    
-- Password change
-- Creating a list
-- Data import
+- Any selenium driver (chrome recommended)
+
+------------
+
+
+###  Functions (in development):
+
+#### Login
+ `login()`
+
+
+**Possible arguments:**
+
+`address='domain'`
+`password='password'`
+
+**Example:**
+`login(address='thic-cat.com', password='lazycat')`
+
+------------
+
+
+#### Password change
+`change_password()`
+
+**Possible arguments:**
+
+`old='oldpasswd'`
+`new='newpasswd'`
+
+**Example:**
+`change_password(old='lazycat', new='baldcat')`
+
+
+------------
+
+
