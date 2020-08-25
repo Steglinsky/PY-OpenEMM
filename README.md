@@ -14,9 +14,9 @@
 ------------
 
 
-###  Functions (in development):
+##  Functions (in development):
 
-##### Login
+### Login
  `login()`
 
 
@@ -28,9 +28,9 @@
 **Example:**
 `login(address='thic-cat.com', password='lazycat')`
 
-==========================================================
+=========================================================
 
-##### Password change
+### Password change
 `change_password()`
 
 **Possible arguments:**
@@ -42,6 +42,6 @@
 `change_password(old='lazycat', new='baldcat')`
 
 
-------------
+=========================================================
 
 
