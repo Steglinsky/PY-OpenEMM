@@ -83,7 +83,7 @@ This command will load the e-mail list file located in the specified location to
 **Example:**
 Simply remove the contents of all mailing lists
 
-`remove_data(`
+`remove_data()`
 
 
 
