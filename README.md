@@ -85,8 +85,20 @@ Simply remove the contents of all mailing lists
 
 `remove_data()`
 
+=========================================================
+
+### Control of mailing
+`mailing_set()`
+
+**Possible arguments:**
+
+`address='thic-cat.com'`
 
 
+**Example:**
+Check if the latest shipment from the list is scheduled
+
+`mailing_set(address='thic-cat.com')`
 
 =========================================================
 
