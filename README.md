@@ -71,7 +71,7 @@ This command will load the e-mail list file located in the specified location to
 
 `data_import(list_path = 'C:/Funny Cats/sleepingcats.txt', checklist = '01.01.2020')`
 
-**Important:** The name of the list does not have to coincide, it only has to contain the indicated string. In case the string is not unique, the data will be loaded to the first list you meet.
+**Important:** The name of the list does not have to coincide, it only has to contain the indicated string. In case the string is not unique, the data will be loaded to the first list you meet. This is useful when the name of the list is always the same and the identifier is only the date.
 
 
 =========================================================
