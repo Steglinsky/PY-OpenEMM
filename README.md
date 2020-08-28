@@ -4,6 +4,8 @@
 #### Required libraries:
 
 - os
+- re
+- math
 - time
 - selenium
 
